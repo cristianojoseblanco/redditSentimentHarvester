@@ -1,4 +1,4 @@
-from src.api.reddit_client import RedditClient
+from api.reddit_client import RedditClient
 
 class TransferCollector:
     def __init__(self, reddit_client: RedditClient):
