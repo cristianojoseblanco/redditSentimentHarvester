@@ -1,0 +1,5 @@
+torch
+requests
+praw
+python-dotenv
+scikit-learn

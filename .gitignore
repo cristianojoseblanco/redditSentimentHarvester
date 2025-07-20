@@ -1,0 +1,16 @@
+# Ambiente virtual
+venv/
+
+# Arquivos do Python
+__pycache__/
+*.pyc
+
+# Dados
+data/raw/*
+data/processed/*
+
+# Jupyter
+.ipynb_checkpoints
+
+# Secrets
+.env
